@@ -1,7 +1,7 @@
 Labirinto,Algoritmo,Tamanho do Caminho,Nós Expandidos,Nós Explorados
-lab_oficial.txt,Busca em Largura (BFS),253,3148,3149
-lab_oficial.txt,Busca em Profundidade (DFS),283,703,704
-lab_oficial.txt,Busca de Custo Uniforme (UCS),253,3148,3149
-lab_oficial.txt,Greedy Best-First Search,253,1099,1100
-lab_oficial.txt,A* (A-Estrela),253,1826,1827
-lab_oficial.txt,IDA*,253,344522,360869
+ascii-art.txt,Busca em Largura (BFS),144,198,199
+ascii-art.txt,Busca em Profundidade (DFS),144,144,145
+ascii-art.txt,Busca de Custo Uniforme (UCS),144,198,199
+ascii-art.txt,Greedy Best-First Search,144,146,147
+ascii-art.txt,A* (A-Estrela),144,186,187
+ascii-art.txt,IDA*,144,3767,3838
